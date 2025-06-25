@@ -8,10 +8,10 @@
 
 
 
-* 🌍  I'm based in Cloud and DevOps Student.
+* 🌍  I'm Enthusiastic Person Of Learning Cloud Computing and DevOps.
 * 🧠  I'm learning Docker.
 * 🤝  I'm open to collaborating on Cloud Projects.
-* 🖥️  See my portfolio at [My Portfolio](https://tanvirmulla-portfolio.netlify.app/)
+* 🖥️  See my [Portfolio](https://tanvirmulla-portfolio.netlify.app/)
 * 📫 How to reach me **tanvirmulla73@gmail.com**
 
 
