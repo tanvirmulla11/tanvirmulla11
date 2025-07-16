@@ -1,6 +1,9 @@
+
 <h1 align="center">Hello 👋, I'm Tanvir Mulla</h1>
 
 <h3 align="center"><b><i>🚀 Passionate about DevOps 🔁 and Cloud Computing ☁️</i></b></h3>
+
+<img align="right" width="400" height="428" alt="image" src="https://github.com/user-attachments/assets/5bd80967-af5a-4130-9486-3b570c4e3ac0" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirmulla11&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirmulla11" /> </p>
