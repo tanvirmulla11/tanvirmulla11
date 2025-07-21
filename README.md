@@ -1,7 +1,7 @@
 ![logo](https://github.com/tanvirmulla11/tanvirmulla11/blob/main/GitHub%20Banner2.png)
-<h1 align="center">Hello 👋, I'm Tanvir Mulla</h1>
 
-<h3 align="center"><b><i>🚀 Passionate about DevOps 🔁 and Cloud Computing ☁️</i></b></h3>
+
+
 
 <img align="right" width="400" height="428" alt="image" src="https://github.com/user-attachments/assets/5bd80967-af5a-4130-9486-3b570c4e3ac0" />
 
