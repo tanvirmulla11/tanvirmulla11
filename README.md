@@ -1,37 +1,76 @@
-![logo](https://github.com/tanvirmulla11/tanvirmulla11/blob/main/GitHub%20Banner2.png)
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6F42C1&height=200&section=header&text=Tanvir%20Mulla%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer+☁️;Passionate+about+Automation+⚡;CI%2FCD+Pipeline+Builder+🔄;Docker+%7C+K8s+%7C+AWS+Lover+🐳☸️☁️" alt="Typing SVG" />
+</p>
 
+---
 
+## 👨‍💻 About Me  
+- 🚀 Aspiring **DevOps Engineer** | Skilled in **AWS, Docker, Jenkins, Terraform, CI/CD**  
+- 🏫 **Marwadi University** | BCA – Cloud Computing  
+- 🔥 Interested in **Microservices, Cloud-Native Apps & Serverless**  
+- 🎯 Goal: Become a **Top DevOps Engineer** & contribute to Open Source  
 
-<img align="right" width="400" height="428" alt="image" src="https://github.com/user-attachments/assets/5bd80967-af5a-4130-9486-3b570c4e3ac0" />
+---
 
+## ⚡ DevOps Infinity Loop  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashok799/touristGuideApp/master/devops.gif" alt="DevOps Loop" width="600"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirmulla11&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirmulla11" /> </p>
- Skills
+---
 
+## ⚡ Tech Stack & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,git,github,linux,nginx,react,tailwind" />
+</p>
 
+---
 
-* 🌍  I'm Enthusiastic Person for Learning Cloud Computing and DevOps.
-* 🧠  Currently I'm learning Docker.
-* 🤝  I'm open to collaborating on Cloud Projects.
-* 🖥️  See my [Portfolio](https://cloudwithtanvir.dev/)
-* 📫 How to reach me **tanvirmulla73@gmail.com**
+## 📊 GitHub Analytics  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvirmulla11&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirmulla11&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvirmulla11&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/tanvirmulla11/tanvirmulla11/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
+---
 
-Socials
+## 🏆 Achievements  
 
-<p align="left"> <a href="https://www.github.com//tanvirmulla11" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/tanvir-mulla-198309251/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanvirmulla11&theme=radical&no-frame=true&margin-w=10&row=2&column=4" />
+</p>
 
-Badges
+---
 
-<b>My GitHub Stats</b>
+## 🌐 Connect With Me  
 
+<p align="center">
+  <a href="https://github.com/tanvirmulla11"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tanvir-mulla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.youtube.com/@tanvirmulla"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
 
-<a href="http://www.github.com//tanvirmulla11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=/tanvirmulla11&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F42C1,100:36BCF7&height=120&section=footer"/>
+</p>
