@@ -20,8 +20,9 @@
 
 ## ⚡ DevOps Infinity Loop  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashok799/touristGuideApp/master/devops.gif" alt="DevOps Loop" width="600"/>
+  <img src="https://user-images.githubusercontent.com/73097560/212748954-327d54b5-7f7d-4d2e-aad8-7d7b8bb47f05.gif" width="600" alt="DevOps Infinity Loop Animation"/>
 </p>
+
 
 ---
 
