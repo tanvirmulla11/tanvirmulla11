@@ -18,10 +18,6 @@
 
 ---
 
-## ⚡ DevOps Infinity Loop  
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/212748954-327d54b5-7f7d-4d2e-aad8-7d7b8bb47f05.gif" width="600" alt="DevOps Infinity Loop Animation"/>
-</p>
 
 
 ---
@@ -46,12 +42,7 @@
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tanvirmulla11/tanvirmulla11/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
----
 
 ## 🏆 Achievements  
 
