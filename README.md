@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer+☁️;Passionate+about+Automation+⚡;CI%2FCD+Pipeline+Builder+🔄;Docker+%7C+K8s+%7C+AWS+Lover+🐳☸️☁️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer+☁️;Passionate+about+Automation+⚡;CI%2FCD+Pipeline+Builder+🔄;Docker+%7C+K8s+%7C+AWS+Lover+🐳☸️☁️" alt="Typing SVG"/>
 </p>
 
 ---
