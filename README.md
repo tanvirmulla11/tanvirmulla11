@@ -8,6 +8,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer+☁️;Passionate+about+Automation+⚡;CI%2FCD+Pipeline+Builder+🔄;Docker+%7C+K8s+%7C+AWS+Lover+🐳☸️☁️" alt="Typing SVG"/>
 </p>
 
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanvirmulla11&label=Profile%20Views&color=6F42C1&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/DevOps%20Engineer%20in%20Progress-36BCF7?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevOps Badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-6F42C1?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me  
@@ -15,10 +22,6 @@
 - 🏫 **Marwadi University** | BCA – Cloud Computing  
 - 🔥 Interested in **Microservices, Cloud-Native Apps & Serverless**  
 - 🎯 Goal: Become a **Top DevOps Engineer** & contribute to Open Source.
-
----
-
-
 
 ---
 
@@ -42,8 +45,6 @@
 
 ---
 
-
-
 ## 🏆 Achievements  
 
 <p align="center">
@@ -52,7 +53,17 @@
 
 ---
 
-## 🌐Connect With Me  
+## 🎟️ Holopin Badges  
+
+<p align="center">
+  <a href="https://holopin.io/@tanvirmulla11">
+    <img src="https://holopin.me/tanvirmulla11" alt="@tanvirmulla11's Holopin Badges"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://github.com/tanvirmulla11"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
