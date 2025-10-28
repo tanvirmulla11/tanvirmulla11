@@ -18,7 +18,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🚀 Aspiring **DevOps Engineer** | Skilled in **AWS, Docker, Jenkins, Terraform, CI/CD**  
+- 🚀 Aspiring **DevOps Engineer** | Skilled in **AWS, Docker, Jenkins, Terraform, CI/CD.**  
 - 🏫 **Marwadi University** | BCA – Cloud Computing  
 - 🔥 Interested in **Microservices, Cloud-Native Apps & Serverless**  
 - 🎯 Goal: Become a **Top DevOps Engineer** & contribute to Open Source.
