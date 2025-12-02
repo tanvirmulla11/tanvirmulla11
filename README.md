@@ -22,7 +22,6 @@
 - 🏫 **Marwadi University** | BCA – Cloud Computing  
 - 🔥 Interested in **Microservices, Cloud-Native Apps & Serverless**  
 - 🎯 Goal: Become a **Top DevOps Engineer** & contribute to Open Source.
-
 ---
 
 ## ⚡ Tech Stack & Tools  
