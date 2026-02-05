@@ -2,7 +2,6 @@
 
 
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=220&section=header&text=Tanvir%20Mulla&fontSize=48&fontColor=ffffff&animation=scaleIn&fontAlignY=38"/>
 </p>
@@ -19,6 +18,10 @@
   <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-Active-00E7FF?style=for-the-badge&logo=amazonaws"/>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-6F42C1?style=for-the-badge&logo=github"/>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Pixel Art Animation">
+</div>
 
 ---
 
