@@ -1,7 +1,12 @@
 <!-- ===================== PROFILE BANNER (NEW ANIMATION) ===================== -->
+
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=220&section=header&text=Tanvir%20Mulla&fontSize=48&fontColor=ffffff&animation=scaleIn&fontAlignY=38"/>
 </p>
+
 
 <!-- ===================== TYPING + GLITCH EFFECT ===================== -->
 <p align="center">
@@ -41,8 +46,11 @@
 ✔ Monitoring & Observability
 ✔ Linux & Server Management
 ```
-## 📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tanvirmulla11&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirmulla11&theme=tokyonight&hide_border=true" height="180em"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvirmulla11&theme=react-dark&hide_border=true&area=true"/> </p>
+##  Coding
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Pixel Art Animation">
+</div>
 
 
 
