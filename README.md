@@ -60,4 +60,8 @@
 ## 🌐 Connect With Me
 <p align="center"> <a href="https://github.com/tanvirmulla11"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/></a> <a href="https://www.linkedin.com/in/tanvir-mulla"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a> <a href="https://www.youtube.com/@DevOpsWithUs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/></a> </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="30%" alt="Pixel Art Animation">
+</div>
+
 <!-- ===================== FUN SECTION ===================== --> <p align="center"> <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/> </p> <!-- ===================== FOOTER (NEW STYLE) ===================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,12,6&height=130&section=footer"/> </p> 
