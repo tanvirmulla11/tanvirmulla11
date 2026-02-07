@@ -7,10 +7,13 @@
 </p>
 
 
+
 <!-- ===================== TYPING + GLITCH EFFECT ===================== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=800&color=00E7FF&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer+☁️;Automation+Driven+Mindset+⚡;CI%2FCD+%7C+IaC+%7C+Monitoring+🔄;Docker+%7C+Kubernetes+%7C+AWS+🚀;Building+Production-Ready+Systems+🔥"/>
 </p>
+
+
 
 <!-- ===================== ANIMATED BADGES ===================== -->
 <p align="center">
@@ -19,9 +22,12 @@
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-6F42C1?style=for-the-badge&logo=github"/>
 </p>
 
+
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="40%" alt="Pixel Art Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Pixel Art Animation">
 </div>
+
 
 ---
 
@@ -49,11 +55,6 @@
 ✔ Monitoring & Observability
 ✔ Linux & Server Management
 ```
-##  👨‍💻 Coding
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Pixel Art Animation">
-</div>
 
 
 
