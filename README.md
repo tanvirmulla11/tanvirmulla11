@@ -1,7 +1,6 @@
 <!-- ===================== PROFILE BANNER (NEW ANIMATION) ===================== -->
 
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=220&section=header&text=Tanvir%20Mulla&fontSize=48&fontColor=ffffff&animation=scaleIn&fontAlignY=38"/>
 </p>
